@@ -14,10 +14,11 @@ RIVANOX is a software project by **SCHEIBL+Partner**, operated from Germany.
 
 | Product | Area | Status | Access |
 |---|---|---:|---|
-| [RIVANOX WakeAnchor](https://rivanox.com/smarttools/rivanox-wakeanchor/) | Windows keep-awake utility | Stable Beta | Product page |
-| [RIVANOX Git/Gitea Sync Monitor](https://rivanox.com/smarttools/rivanox-git-gitea-sync-monitor/) | Git/Gitea workflow control | Stable Beta | [Download](https://rivanox.com/smarttools/rivanox-git-gitea-sync-monitor/) -> Managed Demo / Pro License |
-| [RIVANOX XML Sitemap Filter](https://rivanox.com/smarttools/rivanox-xml-sitemap-filter-for-wordpress/) | WordPress XML sitemap control | Stable Beta | Product page |
-| [RIVANOX Multilingual Manager](https://rivanox.com/smarttools/rivanox-multilingual-manager-for-wordpress/) | WordPress multilingual workflows | Stable Beta | Product page |
+| [RIVANOX WakeAnchor For Windows](https://rivanox.com/smarttools/rivanox-wakeanchor/) | Windows keep-awake utility | Stable Beta | Product page |
+| [RIVANOX Git/Gitea Sync MonitorFor Windows](https://rivanox.com/smarttools/rivanox-git-gitea-sync-monitor/) | Git/Gitea workflow control | Stable Beta | Product page |
+| [RIVANOX XML Sitemap Filter For WordPress](https://rivanox.com/smarttools/rivanox-xml-sitemap-filter-for-wordpress/) | WordPress XML sitemap control | Stable Beta | Product page |
+| [RIVANOX Maintenance Mode For WordPress](https://rivanox.com/smarttools/rivanox-maintenance-mode-for-wordpress/)) | WordPress maintenance mode | Stable Beta | Product page |
+| [RIVANOX Multilingual Manager For WordPress](https://rivanox.com/smarttools/rivanox-multilingual-manager-for-wordpress/) | WordPress multilingual workflows | Stable Beta | Product page |
 
 > Public GitHub product repositories are being prepared. Product pages are linked first to avoid broken repository links.
 
@@ -51,6 +52,7 @@ Please review the product-specific README, product page and legal documents befo
 | WakeAnchor | [Product page](https://rivanox.com/smarttools/rivanox-wakeanchor/) |
 | Git/Gitea Sync Monitor | [Product page](https://rivanox.com/smarttools/rivanox-git-gitea-sync-monitor/) |
 | XML Sitemap Filter for WordPress | [Product page](https://rivanox.com/smarttools/rivanox-xml-sitemap-filter-for-wordpress/) |
+| Maintenance Mode For WordPress | [Product page](https://rivanox.com/smarttools/rivanox-maintenance-mode-for-wordpress/)) |
 | Multilingual Manager for WordPress | [Product page](https://rivanox.com/smarttools/rivanox-multilingual-manager-for-wordpress/) |
 
 ---
