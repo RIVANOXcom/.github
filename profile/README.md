@@ -4,7 +4,7 @@
 
 RIVANOX builds small, practical SmartTools for Windows workflows, WordPress operations, monitoring, capture, files and everyday automation — built to solve specific work problems without becoming another bloated platform.
 
-RIVANOX is a software project by **SCHEIBL+Partner**, operated from Germany.
+RIVANOX is a software project by **MICHAEL SCHEIBL**, operated from Germany.
 
 [Website](https://rivanox.com) · [SmartTools](https://rivanox.com/smarttools/) · [About](https://rivanox.com/about/) · [Support](https://rivanox.com/support/)
 
@@ -67,11 +67,11 @@ For feedback, bug reports, feature requests, license or activation topics, use t
 
 ## Legal
 
-RIVANOX is a project of SCHEIBL+Partner. Please refer to the public legal notice, privacy policy and terms of service on the RIVANOX website.
+RIVANOX is a project of MICHAEL SCHEIBL. Please refer to the public legal notice, privacy policy and terms of service on the RIVANOX website.
 
 - [Legal Notice](https://rivanox.com/legal-notice/)
 - [Privacy Policy](https://rivanox.com/privacy-policy/)
 - [Terms of Service](https://rivanox.com/terms-of-service/)
 - [Transparency Notice](https://rivanox.com/transparency-notice/)
 
-© 2026 RIVANOX / SCHEIBL+Partner. All rights reserved unless stated otherwise in a specific repository or release.
+© 2026 RIVANOX / MICHAEL SCHEIBL. All rights reserved unless stated otherwise in a specific repository or release.
