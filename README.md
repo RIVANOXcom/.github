@@ -17,6 +17,6 @@ This `.github` repository contains:
 - support and security information
 - contribution guidance for public feedback repositories
 
-RIVANOX is a software project by **SCHEIBL+Partner**, focused on practical SmartTools for recurring digital work problems.
+RIVANOX is a software project by **MICHAEL SCHEIBL**, focused on practical SmartTools for recurring digital work problems.
 
 Website: https://rivanox.com
